@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="text_view_nom">Nom:</string>
+    <string name="text_view_prenom">Prenom:</string>
+    <string name="btn_suivant">Suivant</string>
+    <string name="btn_precedent">Précédent</string>
+    <string name="btn_demarrer_service">Démarrer Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+</resources>
